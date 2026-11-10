@@ -11,7 +11,7 @@ This is a research and education simulation. Water-quality indicators do not dia
 - **University:** University of Sri Jayewardenepura
 - **Programme:** MSc in Data Science and Artificial Intelligence
 - **Module:** Multi-Agent Systems
-- **Faculty:** Faculty of Computing
+- **Faculty:** Faculty of Graduate Studies
 - **Department:** Department of Knowledge Engineering and Communication
 - **Submitted to:** Dr. Budditha Hettige
 - **Submission date:** 26 October 2026
