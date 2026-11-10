@@ -16,12 +16,12 @@ This is a research and education simulation. Water-quality indicators do not dia
 - **Submitted to:** Dr. Budditha Hettige
 - **Submission date:** 26 October 2026
 
-| Member | Name | Index number | Responsibility |
-| --- | --- | --- | --- |
-| A | K.K.N.C Perera | 3123PS2026A036 | Data layer, Clock Agent, Well Monitor Agent |
-| B | R.K Wanigasooriya | 3123PS2026A049 | Water Quality Index, Risk Scoring Agent |
-| C | M.M.S.D Wijerathna | 3123PS2026A040 | Hotspot Agent, Village Agent, Resource Coordinator Agent, Contract Net |
-| D | U.H.N.K Siriwardhana | 3123PS2026A019 | Alert Agent, evaluation, dashboard |
+| Member | Name | Responsibility |
+| --- | --- | --- |
+| A | K.K.N.C Perera | Data layer, Clock Agent, Well Monitor Agent |
+| B | R.K Wanigasooriya | Water Quality Index, Risk Scoring Agent |
+| C | M.M.S.D Wijerathna | Hotspot Agent, Village Agent, Resource Coordinator Agent, Contract Net |
+| D | U.H.N.K Siriwardhana | Alert Agent, evaluation, dashboard |
 
 ## Features
 
